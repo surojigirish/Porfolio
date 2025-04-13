@@ -308,7 +308,7 @@ main {
 
 .sidebar {
   margin-bottom: 15px;
-  max-height: 130px;
+  max-height: 150px;
   overflow: hidden;
   transition: var(--transition-2);
 }
@@ -344,8 +344,10 @@ main {
   background: var(--onyx);
   font-size: var(--fs-8);
   font-weight: var(--fw-300);
-  width: 240px;
+  width: 160px;
   padding: 3px 3px;
+  margin-left: 3px;
+  margin-right: 3px;
   border-radius: 8px;
 }
 
